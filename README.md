@@ -62,7 +62,8 @@
 
 ## ⭐ Highlighted Repositories
 <!-- START_SECTION:highlighted -->
-- Loading highlighted repositories...
+- [awsome-dictionary](https://github.com/ramblingThinker/awsome-dictionary) — This is an extension for word meaning search in firefox _(lang: JavaScript, ★ 0)_
+- [AWS_POC](https://github.com/ramblingThinker/AWS_POC) — POC to work with AWS using Python FastAPI framework along with using industrial standard _(lang: Python, ★ 0)_
 <!-- END_SECTION:highlighted -->
 
 ## 📌 Featured Areas
