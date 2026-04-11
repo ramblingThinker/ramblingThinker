@@ -53,6 +53,18 @@
 - Building hands-on **cybersecurity** knowledge with labs, notes, and security-focused repos.
 - Documenting useful **Linux** workflows, scripts, and experiments.
 
+## 🧭 Currently Exploring
+<!-- START_SECTION:currently -->
+- Detection engineering and practical security workflows.
+- Linux hardening, shell automation, and operational reliability.
+- Observability-driven operations and platform engineering patterns.
+<!-- END_SECTION:currently -->
+
+## ⭐ Highlighted Repositories
+<!-- START_SECTION:highlighted -->
+- Loading highlighted repositories...
+<!-- END_SECTION:highlighted -->
+
 ## 📌 Featured Areas
 
 ### Platform Engineering
@@ -79,6 +91,11 @@
 <!-- START_SECTION:repo_updates -->
 - Loading recent repository updates...
 <!-- END_SECTION:repo_updates -->
+
+## 📝 Latest Notes / Writeups
+<!-- START_SECTION:writeups -->
+- Add a `content/writeups.json` file to populate this section automatically.
+<!-- END_SECTION:writeups -->
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
@@ -110,11 +127,17 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/ramblingThinker">
+    <img src="./assets/tryhackme-badge.png" alt="TryHackMe badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/ramblingThinker">
     <img src="https://img.shields.io/badge/View%20Profile-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="View TryHackMe Profile" />
   </a>
 </p>
 
-- Hands-on cybersecurity learning through guided rooms, attack and defense exercises, and capture-the-flag challenges.
+- Hands-on cybersecurity learning through guided rooms, attack and defense exercises, and CTF-style labs.
 - Building practical knowledge in **Linux privilege escalation**, **web exploitation**, **detection thinking**, and **operational hardening**.
 - Active on TryHackMe learning paths and security labs.
 
