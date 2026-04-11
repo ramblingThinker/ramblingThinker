@@ -102,11 +102,13 @@
 - [AWS_POC](https://github.com/ramblingThinker/AWS_POC) — POC to work with AWS using Python FastAPI framework along with using industrial standard _(lang: Python, ★ 0, updated: 2025-08-02)_
 <!-- END_SECTION:repo_updates -->
 
+<!--
 ## 📝 Latest Notes / Writeups
 <!-- START_SECTION:writeups -->
 - [Linux Hardening Notes](https://github.com/ramblingThinker) — Notes and practical checks around secure Linux configuration and operational hygiene. _(topic: linux-security)_
 - [Detection Engineering Learning Log](https://github.com/ramblingThinker) — Ongoing learning around alerts, telemetry, and detection-oriented thinking. _(topic: detection)_
 <!-- END_SECTION:writeups -->
+-->
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
@@ -136,11 +138,11 @@
 
 ## 🛡️ TryHackMe
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://tryhackme.com/p/ramblingThinker">
     <img src="./assets/tryhackme-badge.png" alt="TryHackMe badge" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://tryhackme.com/p/ramblingThinker">
