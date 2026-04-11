@@ -116,19 +116,15 @@
 
 ## 📊 Engineering Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramblingThinker&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramblingThinker&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="170" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramblingThinker&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&include_all_commits=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramblingThinker&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" alt="Top languages" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ramblingThinker&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub trophies" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramblingThinker&theme=github-dark-blue&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramblingThinker&theme=github-dark&hide_border=true&area=true&custom_title=Contribution+Activity" alt="Contribution graph" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramblingThinker&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ramblingThinker&theme=algolia&no-frame=true&no-bg=true&row=1&column=4)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramblingThinker&theme=github-dark&hide_border=true&area=true&custom_title=Contribution+Activity)
 
 ## 🧪 Labs & Learning
 
