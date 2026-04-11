@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Linux Hardening Notes",
+    "url": "https://github.com/ramblingThinker",
+    "summary": "Notes and practical checks around secure Linux configuration and operational hygiene.",
+    "topic": "linux-security"
+  },
+  {
+    "title": "Detection Engineering Learning Log",
+    "url": "https://github.com/ramblingThinker",
+    "summary": "Ongoing learning around alerts, telemetry, and detection-oriented thinking.",
+    "topic": "detection"
+  }
+]
