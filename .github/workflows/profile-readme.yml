@@ -1,0 +1,46 @@
+name: Update Profile README
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate README from template
+        env:
+          GH_USERNAME: ramblingThinker
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_readme.py
+
+      - name: Update recent activity section
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'docs: update profile README activity'
+          MAX_LINES: 10
+          TARGET_FILE: README.md
+
+      - name: Commit and push README updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'docs: refresh dynamic profile README'
+          file_pattern: README.md
