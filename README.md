@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Arsh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Platform+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cybersecurity+Learner+%F0%9F%9B%A1%EF%B8%8F;Linux+Enthusiast+%F0%9F%90%A7;Automating+systems+%26+building+reliable+platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Platform+Engineer;Cybersecurity+Learner;Linux+Enthusiast;Automating+systems+and+building+reliable+platforms" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -19,6 +19,9 @@
   <a href="https://tryhackme.com/p/ramblingThinker">
     <img src="https://img.shields.io/badge/TryHackMe-ramblingThinker-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
+  <a href="https://x.com/ramblingSage25">
+    <img src="https://img.shields.io/badge/X-@ramblingSage25-111111?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=ramblingThinker&style=for-the-badge&color=2563eb" alt="Profile views" />
 </p>
 
@@ -27,29 +30,22 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Working across **platform engineering**, **observability**, and **cloud-native tooling**.
-- 🛡️ Building more depth in **cybersecurity** — Linux hardening, detection workflows, and hands-on labs.
+- 🛡️ Building more depth in **cybersecurity**, especially Linux hardening, detection, and practical labs.
 - 🐧 Comfortable in **Linux-first** environments with a strong interest in automation, shell tooling, and systems thinking.
-- ⚙️ Focused on making infrastructure more **reliable**, **observable**, and **secure**.
-- 🏓 Outside tech: racket sports, anime, and continuous learning.
-- 😄 Pronouns: **He / Him / His**
-
----
+- ⚙️ Interested in making infrastructure more reliable, observable, and secure.
+- 🏓 Outside tech, I enjoy **racket sports**, anime, and continuous learning.
 
 ## 🛠️ Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,js,linux,docker,aws,git,github,githubactions,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=python,bash,js,linux,docker,aws,git,github,githubactions,prometheus,grafana" alt="Core stack icons" />
 </p>
 
-| Area | Tools & Tech |
-|---|---|
-| **Languages** | Python, Bash, JavaScript |
-| **Cloud & Platform** | AWS, Docker, CI/CD, Infrastructure as Code |
-| **Observability** | Grafana, Prometheus, Elastic, Splunk, Datadog, Cribl |
-| **Systems & Security** | Linux, SSH, access control, log analysis, hardening |
-| **Automation** | GitHub Actions, scripting, operational tooling |
-
----
+- **Languages:** Python, Bash, JavaScript
+- **Cloud & Platform:** AWS, Docker, CI/CD, Infrastructure as Code
+- **Observability:** Grafana, Prometheus, Elastic, Splunk, Datadog, Cribl
+- **Systems & Security:** Linux, SSH, access control, log analysis, hardening basics
+- **Automation:** GitHub Actions, scripting, operational tooling
 
 ## 🚀 Current Focus
 
@@ -57,27 +53,23 @@
 - Building hands-on **cybersecurity** knowledge with labs, notes, and security-focused repos.
 - Documenting useful **Linux** workflows, scripts, and experiments.
 
----
-
 ## 📌 Featured Areas
 
-### ⚙️ Platform Engineering
+### Platform Engineering
 <!-- START_SECTION:platform -->
 - [awsome-dictionary](https://github.com/ramblingThinker/awsome-dictionary) — This is an extension for word meaning search in firefox _(lang: JavaScript, ★ 0)_
 - [AWS_POC](https://github.com/ramblingThinker/AWS_POC) — POC to work with AWS using Python FastAPI framework along with using industrial standard _(lang: Python, ★ 0)_
 <!-- END_SECTION:platform -->
 
-### 🛡️ Cybersecurity
+### Cybersecurity
 <!-- START_SECTION:security -->
 - Add topics like `security`, `cybersecurity`, `ctf`, `detection`, or `hardening` to repos to surface them here.
 <!-- END_SECTION:security -->
 
-### 🐧 Linux & Automation
+### Linux & Automation
 <!-- START_SECTION:linux -->
 - Add topics like `linux`, `bash`, `automation`, `shell`, or `dotfiles` to repos to surface them here.
 <!-- END_SECTION:linux -->
-
----
 
 ## 🆕 Newest Repositories
 <!-- START_SECTION:newest -->
@@ -97,23 +89,19 @@
 - [AWS_POC](https://github.com/ramblingThinker/AWS_POC) — POC to work with AWS using Python FastAPI framework along with using industrial standard _(lang: Python, ★ 0, updated: 2025-08-02)_
 <!-- END_SECTION:repo_updates -->
 
----
-
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
-
 ## 📊 Engineering Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramblingThinker&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramblingThinker&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramblingThinker&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramblingThinker&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramblingThinker&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" alt="Top languages" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramblingThinker&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" alt="Top languages" height="170" />
   <img src="https://github-profile-trophy.vercel.app/?username=ramblingThinker&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub trophies" />
 </p>
 
@@ -121,23 +109,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramblingThinker&theme=github-dark&hide_border=true&area=true&custom_title=Contribution+Activity" alt="Contribution graph" />
 </p>
 
----
-
 ## 🧪 Labs & Learning
 
 - Hands-on experiments around **Linux**, **platform tooling**, and **security workflows**.
 - Building repos that reflect practical learning, not just theory.
 - Interested in observability pipelines, automation, hardening, and incident-driven thinking.
 
----
-
 ## 🛡️ TryHackMe
-
-<!-- <p align="center">
-  <a href="https://tryhackme.com/p/ramblingThinker" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ramblingThinker.png" alt="TryHackMe badge" />
-  </a>
-</p> -->
 
 <p align="center">
   <a href="https://tryhackme.com/p/ramblingThinker">
@@ -145,11 +123,9 @@
   </a>
 </p>
 
-- Hands-on cybersecurity learning through guided rooms, attack & defense exercises, and capture-the-flag challenges.
+- Hands-on cybersecurity learning through guided rooms, attack and defense exercises, and capture-the-flag challenges.
 - Building practical knowledge in **Linux privilege escalation**, **web exploitation**, **detection thinking**, and **operational hardening**.
-- Active on TryHackMe learning paths covering **SOC Level 1**, **Jr Penetration Tester**, and **Linux Fundamentals**.
-
----
+- Active on TryHackMe learning paths and security labs.
 
 ## 📫 Connect
 
@@ -162,6 +138,9 @@
   </a>
   <a href="https://tryhackme.com/p/ramblingThinker">
     <img src="https://img.shields.io/badge/TryHackMe-ramblingThinker-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://x.com/ramblingSage25">
+    <img src="https://img.shields.io/badge/X-@ramblingSage25-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
