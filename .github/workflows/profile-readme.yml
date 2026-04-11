@@ -27,8 +27,7 @@ jobs:
         env:
           GH_USERNAME: ramblingThinker
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python scripts/generate_readme.py
+        run: python scripts/generate_readme.py
 
       - name: Update recent activity section
         uses: jamesgeorge007/github-activity-readme@master
