@@ -104,7 +104,8 @@
 
 ## 📝 Latest Notes / Writeups
 <!-- START_SECTION:writeups -->
-- Add a `content/writeups.json` file to populate this section automatically.
+- [Linux Hardening Notes](https://github.com/ramblingThinker) — Notes and practical checks around secure Linux configuration and operational hygiene. _(topic: linux-security)_
+- [Detection Engineering Learning Log](https://github.com/ramblingThinker) — Ongoing learning around alerts, telemetry, and detection-oriented thinking. _(topic: detection)_
 <!-- END_SECTION:writeups -->
 
 ## ⚡ Recent GitHub Activity
