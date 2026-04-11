@@ -92,10 +92,12 @@
 - Loading recent repository updates...
 <!-- END_SECTION:repo_updates -->
 
+<!--
 ## 📝 Latest Notes / Writeups
 <!-- START_SECTION:writeups -->
 - Add a `content/writeups.json` file to populate this section automatically.
 <!-- END_SECTION:writeups -->
+-->
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
@@ -125,11 +127,11 @@
 
 ## 🛡️ TryHackMe
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://tryhackme.com/p/ramblingThinker">
     <img src="./assets/tryhackme-badge.png" alt="TryHackMe badge" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://tryhackme.com/p/ramblingThinker">
