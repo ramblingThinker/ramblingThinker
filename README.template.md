@@ -105,13 +105,7 @@
 
 ## 📊 Engineering Snapshot
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramblingThinker&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&include_all_commits=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramblingThinker&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramblingThinker&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ramblingThinker&theme=algolia&no-frame=true&no-bg=true&row=1&column=4)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramblingThinker&theme=github-dark&hide_border=true&area=true&custom_title=Contribution+Activity)
 
