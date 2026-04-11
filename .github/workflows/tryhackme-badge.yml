@@ -1,0 +1,29 @@
+name: Update TryHackMe Badge
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update TryHackMe badge image
+        uses: p4p1/tryhackme-badge-workflow@master
+        with:
+          username: ramblingThinker
+          badge_path: assets/tryhackme-badge.png
+
+      - name: Commit badge update
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'docs: update TryHackMe badge'
+          file_pattern: assets/tryhackme-badge.png
