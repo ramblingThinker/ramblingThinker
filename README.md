@@ -157,7 +157,7 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arsh-sharma-2000/">
+  <a href="https://www.linkedin.com/in/arshsharma/">
     <img src="https://img.shields.io/badge/LinkedIn-Arsh%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ramblingThinker">
