@@ -62,6 +62,7 @@
 
 ## ⭐ Highlighted Repositories
 <!-- START_SECTION:highlighted -->
+- [Free-Style-Demo](https://github.com/ramblingThinker/Free-Style-Demo) — This is a test repo to work on CICD _(lang: Java, ★ 0)_
 - [awsome-dictionary](https://github.com/ramblingThinker/awsome-dictionary) — This is an extension for word meaning search in firefox _(lang: JavaScript, ★ 0)_
 - [AWS_POC](https://github.com/ramblingThinker/AWS_POC) — POC to work with AWS using Python FastAPI framework along with using industrial standard _(lang: Python, ★ 0)_
 <!-- END_SECTION:highlighted -->
@@ -70,6 +71,7 @@
 
 ### Platform Engineering
 <!-- START_SECTION:platform -->
+- [Free-Style-Demo](https://github.com/ramblingThinker/Free-Style-Demo) — This is a test repo to work on CICD _(lang: Java, ★ 0)_
 - [awsome-dictionary](https://github.com/ramblingThinker/awsome-dictionary) — This is an extension for word meaning search in firefox _(lang: JavaScript, ★ 0)_
 - [AWS_POC](https://github.com/ramblingThinker/AWS_POC) — POC to work with AWS using Python FastAPI framework along with using industrial standard _(lang: Python, ★ 0)_
 <!-- END_SECTION:platform -->
@@ -86,6 +88,7 @@
 
 ## 🆕 Newest Repositories
 <!-- START_SECTION:newest -->
+- [Free-Style-Demo](https://github.com/ramblingThinker/Free-Style-Demo) — This is a test repo to work on CICD _(lang: Java, ★ 0)_
 - [MapleCheck](https://github.com/ramblingThinker/MapleCheck) — This website is for validating whether you're eligible to apply for Canadian Citizenship or not _(lang: JavaScript, ★ 0)_
 - [awsome-dictionary](https://github.com/ramblingThinker/awsome-dictionary) — This is an extension for word meaning search in firefox _(lang: JavaScript, ★ 0)_
 - [b2b_eq_lending](https://github.com/ramblingThinker/b2b_eq_lending) — This is a POC for B2B Equipment Lending _(lang: TypeScript, ★ 0)_
@@ -95,6 +98,7 @@
 
 ## 🔄 Recent Repository Updates
 <!-- START_SECTION:repo_updates -->
+- [Free-Style-Demo](https://github.com/ramblingThinker/Free-Style-Demo) — This is a test repo to work on CICD _(lang: Java, ★ 0, updated: 2026-05-03)_
 - [ramblingThinker](https://github.com/ramblingThinker/ramblingThinker) — Config files for my GitHub profile. _(lang: Python, ★ 0, updated: 2026-04-12)_
 - [MapleCheck](https://github.com/ramblingThinker/MapleCheck) — This website is for validating whether you're eligible to apply for Canadian Citizenship or not _(lang: JavaScript, ★ 0, updated: 2026-04-04)_
 - [awsome-dictionary](https://github.com/ramblingThinker/awsome-dictionary) — This is an extension for word meaning search in firefox _(lang: JavaScript, ★ 0, updated: 2026-03-21)_
